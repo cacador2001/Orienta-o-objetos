@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Herança\Herança\bin\Debug\Herança.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Herança\Herança\bin\Debug\Herança.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Herança\Herança\bin\Debug\Herança.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Herança\Herança\obj\Debug\Herança.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Herança\Herança\obj\Debug\Herança.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Herança\Herança\obj\Debug\Herança.pdb
