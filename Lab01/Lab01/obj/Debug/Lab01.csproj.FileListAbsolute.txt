@@ -1,0 +1,19 @@
+c:\users\2114070024\documents\visual studio 2015\Projects\Lab01\Lab01\bin\Debug\Lab01.exe.config
+c:\users\2114070024\documents\visual studio 2015\Projects\Lab01\Lab01\bin\Debug\Lab01.exe
+c:\users\2114070024\documents\visual studio 2015\Projects\Lab01\Lab01\bin\Debug\Lab01.pdb
+c:\users\2114070024\documents\visual studio 2015\Projects\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
+c:\users\2114070024\documents\visual studio 2015\Projects\Lab01\Lab01\obj\Debug\Lab01.exe
+c:\users\2114070024\documents\visual studio 2015\Projects\Lab01\Lab01\obj\Debug\Lab01.pdb
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\obj\Debug\Lab01.pdb
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\Users\iago\Downloads\Compressed\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\2114070024\Downloads\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Users\2114070024\Downloads\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Users\2114070024\Downloads\Lab01\Lab01\obj\Debug\Lab01.pdb
+C:\Users\2114070024\Downloads\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Users\2114070024\Downloads\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Users\2114070024\Downloads\Lab01\Lab01\obj\Debug\Lab01.csprojResolveAssemblyReference.cache
