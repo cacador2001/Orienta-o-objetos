@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb
