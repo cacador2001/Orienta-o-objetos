@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Lab02-revisada\Lab02-revisada\bin\Debug\Lab02-revisada.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Lab02-revisada\Lab02-revisada\bin\Debug\Lab02-revisada.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Lab02-revisada\Lab02-revisada\bin\Debug\Lab02-revisada.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Lab02-revisada\Lab02-revisada\obj\Debug\Lab02-revisada.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Lab02-revisada\Lab02-revisada\obj\Debug\Lab02-revisada.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Lab02-revisada\Lab02-revisada\obj\Debug\Lab02-revisada.pdb

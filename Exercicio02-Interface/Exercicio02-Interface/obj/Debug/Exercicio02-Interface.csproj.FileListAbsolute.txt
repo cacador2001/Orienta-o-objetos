@@ -1,0 +1,2 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 28.03\Exercicio02-Interface\Exercicio02-Interface\bin\Debug\Exercicio02-Interface.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 18.04\Exercicio02-Interface\Exercicio02-Interface\bin\Debug\Exercicio02-Interface.exe.config
