@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 25.04\P1\Prova1\Prova1\bin\Debug\Prova1.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 25.04\P1\Prova1\Prova1\bin\Debug\Prova1.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 25.04\P1\Prova1\Prova1\bin\Debug\Prova1.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 25.04\P1\Prova1\Prova1\obj\Debug\Prova1.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 25.04\P1\Prova1\Prova1\obj\Debug\Prova1.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 25.04\P1\Prova1\Prova1\obj\Debug\Prova1.pdb
