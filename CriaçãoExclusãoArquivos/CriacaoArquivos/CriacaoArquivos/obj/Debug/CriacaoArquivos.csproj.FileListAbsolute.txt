@@ -1,7 +1,0 @@
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\Composição\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\bin\Debug\CriacaoArquivos.exe.config
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\bin\Debug\CriacaoArquivos.exe.config
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\bin\Debug\CriacaoArquivos.exe
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\bin\Debug\CriacaoArquivos.pdb
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\obj\Debug\CriacaoArquivos.csprojResolveAssemblyReference.cache
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\obj\Debug\CriacaoArquivos.exe
-C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 02.05\CriaçãoExclusãoArquivos\CriacaoArquivos\CriacaoArquivos\obj\Debug\CriacaoArquivos.pdb
