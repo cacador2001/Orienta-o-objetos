@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Filas\FilaDinamica\FilaDinamica\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Filas\FilaDinamica\FilaDinamica\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Filas\FilaDinamica\FilaDinamica\FilaDinamica\FilaDinamica\bin\Debug\FilaDinamica.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Filas\FilaDinamica\FilaDinamica\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Filas\FilaDinamica\FilaDinamica\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Filas\FilaDinamica\FilaDinamica\FilaDinamica\FilaDinamica\obj\Debug\FilaDinamica.pdb

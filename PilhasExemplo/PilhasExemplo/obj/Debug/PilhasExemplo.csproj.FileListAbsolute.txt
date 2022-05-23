@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 16.05\Pilhas\PilhasExemplo\PilhasExemplo\bin\Debug\PilhasExemplo.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 16.05\Pilhas\PilhasExemplo\PilhasExemplo\bin\Debug\PilhasExemplo.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 16.05\Pilhas\PilhasExemplo\PilhasExemplo\bin\Debug\PilhasExemplo.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 16.05\Pilhas\PilhasExemplo\PilhasExemplo\obj\Debug\PilhasExemplo.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 16.05\Pilhas\PilhasExemplo\PilhasExemplo\obj\Debug\PilhasExemplo.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objeto\Aula 16.05\Pilhas\PilhasExemplo\PilhasExemplo\obj\Debug\PilhasExemplo.pdb

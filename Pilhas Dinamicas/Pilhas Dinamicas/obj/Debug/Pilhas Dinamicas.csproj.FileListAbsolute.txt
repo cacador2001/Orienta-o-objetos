@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Pilha Dinamica\Pilhas Dinamicas\Pilhas Dinamicas\bin\Debug\Pilhas Dinamicas.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Pilha Dinamica\Pilhas Dinamicas\Pilhas Dinamicas\bin\Debug\Pilhas Dinamicas.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Pilha Dinamica\Pilhas Dinamicas\Pilhas Dinamicas\bin\Debug\Pilhas Dinamicas.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Pilha Dinamica\Pilhas Dinamicas\Pilhas Dinamicas\obj\Debug\Pilhas Dinamicas.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Pilha Dinamica\Pilhas Dinamicas\Pilhas Dinamicas\obj\Debug\Pilhas Dinamicas.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 23.05\Pilha Dinamica\Pilhas Dinamicas\Pilhas Dinamicas\obj\Debug\Pilhas Dinamicas.pdb
