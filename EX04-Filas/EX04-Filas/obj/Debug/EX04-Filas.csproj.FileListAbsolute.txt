@@ -1,0 +1,6 @@
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 30.05\Exercicios Fila\Exercicio04\EX04-Filas\EX04-Filas\bin\Debug\EX04-Filas.exe.config
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 30.05\Exercicios Fila\Exercicio04\EX04-Filas\EX04-Filas\bin\Debug\EX04-Filas.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 30.05\Exercicios Fila\Exercicio04\EX04-Filas\EX04-Filas\bin\Debug\EX04-Filas.pdb
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 30.05\Exercicios Fila\Exercicio04\EX04-Filas\EX04-Filas\obj\Debug\EX04-Filas.csprojResolveAssemblyReference.cache
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 30.05\Exercicios Fila\Exercicio04\EX04-Filas\EX04-Filas\obj\Debug\EX04-Filas.exe
+C:\Users\2114070024\Documents\Codigos Orientação à objetos-Estrutura de Dados\Aula 30.05\Exercicios Fila\Exercicio04\EX04-Filas\EX04-Filas\obj\Debug\EX04-Filas.pdb
